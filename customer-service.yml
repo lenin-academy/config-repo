@@ -1,5 +1,5 @@
 spring:
-  apllication:
+  application:
     name: customer-service
   datasource:
     url: jdbc:mysql://localhost:3306/customer_master
