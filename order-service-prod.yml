@@ -11,4 +11,4 @@ spring:
   jpa:
     hibernate:
       ddl-auto: update
-    shoe-sql: true 
+    show-sql: true 
